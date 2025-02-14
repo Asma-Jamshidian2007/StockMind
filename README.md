@@ -1,0 +1,2 @@
+# StockMind
+Warehouse Management System
